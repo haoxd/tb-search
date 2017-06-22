@@ -1,4 +1,10 @@
 D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\model\SearchResult.java
 D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\controller\SearchController.java
+D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\sys\http\IdleConnectionEvictor.java
 D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\service\ItemSearchService.java
+D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\sys\http\ws\server\intf\HttpClientApiServerTools.java
+D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\service\ItemService.java
+D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\sys\HttpConstants.java
+D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\sys\MQConstant.java
+D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\mq\queue\ItemMQHendler.java
 D:\workspace\workspaces\tb-search\src\main\java\com\tb\search\pojo\Item.java
