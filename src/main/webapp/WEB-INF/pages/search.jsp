@@ -51,7 +51,7 @@
 		</a>
 	</div>
 	<div class="p-name">
-		<a target="_blank" href="http://www.taotao.com/item/${item.id }.html">
+		<a target="_blank" href="http://www.tb.com/item/${item.id }.html">
 			${item.title}
 		</a>
 	</div>

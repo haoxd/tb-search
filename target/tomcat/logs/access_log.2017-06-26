@@ -1,0 +1,5 @@
+127.0.0.1 - - [26/Jun/2017:10:38:13 +0800] "GET /S/Search.html?keyword=%E5%8D%8E%E4%B8%BA HTTP/1.0" 200 43055 http-bio-8085-exec-1 1319
+127.0.0.1 - - [26/Jun/2017:10:38:14 +0800] "GET /favicon.ico HTTP/1.0" 404 973 http-bio-8085-exec-2 10
+127.0.0.1 - - [26/Jun/2017:10:39:12 +0800] "GET /S/Search.html?keyword=%E5%B0%8F%E7%B1%B3 HTTP/1.0" 200 27331 http-bio-8085-exec-3 62
+127.0.0.1 - - [26/Jun/2017:10:39:54 +0800] "GET /S/Search.html?keyword=apple HTTP/1.0" 200 43770 http-bio-8085-exec-4 109
+127.0.0.1 - - [26/Jun/2017:15:59:31 +0800] "GET /S/Search.html?keyword=%E5%8D%8E%E4%B8%BA HTTP/1.0" 200 43055 http-bio-8085-exec-5 170
